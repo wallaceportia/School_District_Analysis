@@ -2,7 +2,7 @@
 
 ## Overview of the school district analysis:
 
-Maria and her supervisor has been asked to assist them with a dilemma that Py City School is facing with the results of the standardized tests results.  From all appearances there seems to be evidence of grade dishonesty for grades in math and reading for Thomas High School. This is significant because standardize test grades are important for the decision making process for student funding such as budget priorities and making other strategic decisions on a school and district level. 
+Maria and her supervisor has been asked to assist them with a dilemma that __Py City School__ is facing with the results of the standardized tests results.  From all appearances there seems to be evidence of grade dishonesty for grades in math and reading for __Thomas High School__. This is significant because standardize test grades are important for the decision making process for student funding such as budget priorities and making other strategic decisions on a school and district level. 
 Maria has been instructed to replace the test scores for math specifically for the 9th grade and analyse how this impacts the overall results of all the school district as a whole and how Thomas High school stacks up agains other schools in the district after the change.   
 
 Results:
