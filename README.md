@@ -26,7 +26,7 @@ Maria has been instructed to replace the test scores for math and reading, speci
 ![]()
 
 **Thomas High Scores by Spending**
-![Thomas High Scores by Spending]()
+![Thomas High Scores by Spending](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Schools_Spending.PNG)
 
 **Thomas High Scores by School Spending Refactored** 
 ![Thomas High Scores by School Spending Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_School_Spending.PNG)
