@@ -8,7 +8,7 @@ Maria has been instructed to replace the test scores for math and reading, speci
 ## Results:
 
 **Original District Summary**
-![District Summary]()
+![District Summary](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/District_Summary.PNG)
 
 **Refactored District Summary**
 ![Refactored District Summary]()
