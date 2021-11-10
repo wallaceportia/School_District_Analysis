@@ -38,7 +38,7 @@ Maria has been instructed to replace the test scores for math and reading, speci
 ![Thomas High Scores by School Size Refactored]()
 
 **Thomas High Scores by School Type**
-![Thomas High Scores by School Type]()
+![Thomas High Scores by School Type](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Spending_School_Type.PNG)
 
 **Thomas High Scores by School Type Refactored**
 ![Thomas High Scores by School Type Refactored]()
