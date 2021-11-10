@@ -20,7 +20,7 @@ Maria has been instructed to replace the test scores for math and reading, speci
 ![Refactored School Summary]()
 
 **Thomas High School's Relative Performance**
-![Thomas High School's Relative Performance]()
+![Thomas High School's Relative Performance](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Percentage_Passing_Math.PNG)
 
 **Thomas High School's Relative Performance Refactored**
 ![]()
