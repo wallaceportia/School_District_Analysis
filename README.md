@@ -8,10 +8,10 @@ Maria has been instructed to replace the test scores for math and reading, speci
 ## Results:
 
 **Original District Summary**
-![District Summary]()
+![District Summary](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/District_Summary.PNG)
 
 **Refactored District Summary**
-![Refactored District Summary]()
+![Refactored District Summary](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_District_Summary.PNG)
 
 **School Summary**
 ![School Summary]()
@@ -20,28 +20,28 @@ Maria has been instructed to replace the test scores for math and reading, speci
 ![Refactored School Summary]()
 
 **Thomas High School's Relative Performance**
-![Thomas High School's Relative Performance]()
+![Thomas High School's Relative Performance](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Percentage_Passing_Math.PNG)
 
 **Thomas High School's Relative Performance Refactored**
-![]()
+![Thomas High School's Relative Performance Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_Percentage_Passing_Reading.PNG)
 
 **Thomas High Scores by Spending**
-![Thomas High Scores by Spending]()
+![Thomas High Scores by Spending](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Schools_Spending.PNG)
 
 **Thomas High Scores by School Spending Refactored** 
-![Thomas High Scores by School Spending Refactored]()
+![Thomas High Scores by School Spending Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_School_Spending.PNG)
 
 **Thomas High Scores by School size**
-![Thomas High Scores by School size]()
+![Thomas High Scores by School size](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/School_Spending_Size.PNG)
 
 **Thomas High Scores by School Size Refactored**
-![Thomas High Scores by School Size Refactored]()
+![Thomas High Scores by School Size Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored__School_Spending_Size.PNG)
 
 **Thomas High Scores by School Type**
-![Thomas High Scores by School Type]()
+![Thomas High Scores by School Type](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Spending_School_Type.PNG)
 
 **Thomas High Scores by School Type Refactored**
-![Thomas High Scores by School Type Refactored]()
+![Thomas High Scores by School Type Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_Spending_Type.PNG)
 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
