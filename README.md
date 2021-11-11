@@ -29,7 +29,7 @@ Dispite the removal of 9th grade math and reading scores __Thomas High School__ 
 
 
 **Math Scores by Grade**
-![Math Scores by Grde](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Percentage_Passing_Math.PNG)
+![Math Scores by Grde](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Passing_Math_ByGrade.PNG)
 
 **Math Scores by Grade Refactored**
 ![Math Scores by Grade Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_Passing_Math_ByGrade.PNG)
