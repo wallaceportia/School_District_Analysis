@@ -27,14 +27,15 @@ In an overview of the __District Summary__  we observe that the overall passing 
 
 Dispite the removal of 9th grade math and reading scores __Thomas High School__ remained the __second highest__ top performing school before removal of the math and reading scores their overal percentage was __90.95__, which then fell to __90.63__. This left them behind the top performing school __Cabrea High School at 91.34__ and just infront of the third highest performing school __Griffin High School at 90.59__.  It is noted that all three of these schools are 'Chartered Schools'.
 
-
 **Math Scores by Grade**
+
 ![Math Scores by Grde](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Passing_Math_ByGrade.PNG)
 
-**Math Scores by Grade Refactored**
-![Math Scores by Grade Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_Passing_Math_ByGrade.PNG)
+**Average Math Scores by Grade Refactored**
+![Average Math Scores by Grade Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Refactored_Passing_Math_ByGrade.PNG)
 
-###### Analysis of Math Scores by Grade
+###### Analysis of Average Math Scores by Grade
+
 
 
 **Reading Scores by Grade
