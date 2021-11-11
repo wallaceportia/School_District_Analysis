@@ -38,7 +38,7 @@ Dispite the removal of 9th grade math and reading scores __Thomas High School__ 
 
 
 **Reading Scores by Grade
-![Reading Scores by Grade Refactored]()
+![Reading Scores by Grade Refactored](https://github.com/wallaceportia/School_District_Analysis/blob/main/Resources/Resource_pics/Passing_Reading_by_Grade.PNG)
 
 **Reading Scores by Grade Refactored**
 ![Reading Scores by Grade Refactored]()
